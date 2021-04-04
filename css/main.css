@@ -17,6 +17,11 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
+a {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
 p {
     font-size: 1.5em;
     line-height: 1.4em;
