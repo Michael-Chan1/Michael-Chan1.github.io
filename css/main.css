@@ -1,10 +1,10 @@
 body {
     margin: 60px auto;
     width: 70%;
-    font-family:'Roboto Condensed'';
+    font-family:'Roboto Condensed';
 }
 nav ul, footer ul {
-    font-family:'Roboto Condensed'';
+    font-family:'Roboto Condensed';
     padding: 0px;
     list-style: none;
     font-weight: bold;
