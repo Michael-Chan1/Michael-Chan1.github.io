@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Roboto Condensed'';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -11,13 +11,15 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+    font-family:'Roboto Condensed'
 }
 
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Roboto Condensed';
 }
 a:link {
+  font-family:'Roboto Condensed'
   color: green;
   background-color: transparent;
   text-decoration: none;
@@ -44,19 +46,23 @@ p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
+    font-family:'Roboto Condensed'
 }
 footer {
     border-top: 1px solid;
     font-size: .8em;
+    font-family:'Roboto Condensed'
 }
 
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
+    font-family:'Roboto Condensed'
 }
 
 ul.posts li {
     list-style: none;
+    font-family:'Roboto Condensed'
 }
 
 .bg {
@@ -94,7 +100,7 @@ ul.posts li {
 }
 
 h1 {
-  font-family:monospace;
+  font-family:'Roboto Condensed'
 }
 
 @keyframes slide {
